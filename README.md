@@ -1,2 +1,2 @@
 # Recreation of Apple's Weather App
-![Home Page Screenshot](Homepage.PNG)
+![Home Page Screenshot](Homepage.png)
